@@ -1,2 +1,2 @@
 # FormatoNombres
-Este es un script para asignar nombres a los archivos con determinada expresión regular
+Este es un script para buscar y reemplazar nombres a los archivos con determinada expresión regular
